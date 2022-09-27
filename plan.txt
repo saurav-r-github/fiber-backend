@@ -1,0 +1,1 @@
+// mg := "mongodb+srv://saurav3357:Sa1Ur2Av3357@cluster0.6qvrs.mongodb.net/?retryWrites=true&w=majority"
